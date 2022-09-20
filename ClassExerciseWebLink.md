@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-
-<html>
-
-  <head>
+ <head>
     <title> INFO 2105 </title>
   </head>
 
@@ -22,5 +18,3 @@
       </li>
     </ul>
   </body>
-
-</html>
